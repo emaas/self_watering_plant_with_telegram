@@ -9,12 +9,13 @@ You will also be able to update your code by sending new code to your arduino, u
 
 # Mandatory prerequisites
 The following steps need to be done for this script to work.
+
+## Installing Libraries
 You will need the following libraries:
 - ArduinoJson
 - AsyncTelegram2
 - ESP8266httpUpdate
 - ESP8266WiFi
-
 
 ## Filling the WiFi DEFINES
 Set the SSID and Password of the WiFi your Arduino needs to connect to by replacing the <SSID> and <wifi password> placeholders.
