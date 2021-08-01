@@ -23,7 +23,7 @@ InlineKeyboard waterBoard;
 #define MAX_RECONNECT_RETRIES 10 // Max number of retries per cycle when we are disconnected from out wifi.
 
 // Telegram settings.
-#define TELEGRAMBOTID "<telegram bit id>" // Your Bot's Telegram ID.
+#define TELEGRAMBOTID "<telegram bot id>" // Your Bot's Telegram ID.
 #define TELEGRAMUSERID "<telegram id>" // Your Telegram ID.
 
 // Time variables.
